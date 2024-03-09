@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+.border{
+  border: 1px solid tomato;
+}
 
 .logo {
   height: 6em;
